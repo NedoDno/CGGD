@@ -1,0 +1,5 @@
+C:/Users/User/CLionProjects/CGGD/cmake-build-cggd/CMakeFiles/Rasterization.dir
+C:/Users/User/CLionProjects/CGGD/cmake-build-cggd/CMakeFiles/Raytracing.dir
+C:/Users/User/CLionProjects/CGGD/cmake-build-cggd/CMakeFiles/DirectX12.dir
+C:/Users/User/CLionProjects/CGGD/cmake-build-cggd/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/CGGD/cmake-build-cggd/CMakeFiles/rebuild_cache.dir
